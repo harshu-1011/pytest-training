@@ -10,5 +10,3 @@ def testlogoff():
 @pytest.mark.sanity
 def testcalculation():
     assert 2+2==4
-#edit by user1
-#github demos
